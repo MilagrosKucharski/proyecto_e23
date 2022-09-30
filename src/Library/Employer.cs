@@ -3,7 +3,7 @@ namespace Library{
     public class Employer{
         public string EmployerName { get; set; }
 
-        public string EmployerCellphone { get; set;}
+        public string EmployerCellphone { get; set; }
 
         public int EmployerQualify { get; set; }
 
@@ -13,5 +13,6 @@ namespace Library{
             this.EmployerCellphone = employerCellphone;
             this.EmployerQualify = employerQualify;
         }
+        //public string GetEmployeeDataInformation()
     }
 }
