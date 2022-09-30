@@ -11,12 +11,7 @@ namespace Library{
 
             this.AwaitingRequests.Add(Request);
         }
-        public void RequestDeclined(Request){
-
-            this.AwaitingRequests.Remove(Request);
-            
-            this.DeclainedRequests.Add(Request);
-        }
+        
     }
 
 
