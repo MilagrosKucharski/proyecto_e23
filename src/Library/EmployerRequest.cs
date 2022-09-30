@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 namespace Library{
     public class EmployerRequest{
         public ArrayList AwaitingRequests = new ArrayList();
