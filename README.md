@@ -1,3 +1,19 @@
+Se agregaron los diagramas CRC y UML, CRC no se pudo cargar en Google Drive por lo que no se puede previsualizar desde el navegador pero si al descargarlo y luego abrir con draw.io, el UML se previsualiza directamente desde Google Drive.
+También se agregó parte del inicio de la codificación la cual luego tendrá cambios ya que al solo trabajar con las clases de dominio para esta entrega hay interacciones que no se pueden reflejar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Qué hay configurado en esta plantilla
 
 1. Un proyecto de biblioteca (creado con [`dotnet new classlib --name Library`](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore22)) en la carpeta `src\Library`
